@@ -1,0 +1,27 @@
+# Flask and extensions
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-jwt-extended==4.5.0
+flask-cors==4.0.0
+
+# Database
+psycopg2-binary==2.9.6
+sqlalchemy==2.0.12
+
+# Authentication and Security
+email-validator==2.0.0
+werkzeug==2.3.3
+
+# Development and Testing
+pytest==7.3.1
+pytest-flask==1.2.0
+coverage==7.2.5
+
+# Additional Utilities
+python-dotenv==1.0.0
+gunicorn==20.1.0
+
+# Type checking and linting
+mypy==1.3.0
+flake8==6.0.0
+black==23.3.0
